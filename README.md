@@ -33,6 +33,9 @@ Next.js dashboards are tailored for admins, visitors, and speakers, offering dif
 - QR Code Generation
 - QR Code Scanner
 - Certificate Generation
+- Messaging App
+- Scheduling
+- Live Stream
 
 ## Lead Agency
 
