@@ -2,6 +2,8 @@
 
 ## Overview
 
+*** This repo on stands as reference to the actaul project, this Readme is sourced in my personal portfolio ***
+
 RAKFSC is a comprehensive web application developed for RAK Police to host a Forensic Science Conference. It consists of a Next.js landing page, a Strapi backend, and Next.js dashboards for admins, visitors, and speakers. The application facilitates event management, QR code generation, scanning, and certificate generation for attendees.
 
 ## Components
